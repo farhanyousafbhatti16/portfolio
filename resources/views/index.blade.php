@@ -33,6 +33,10 @@
         <h3>Hello, It's Me</h3>
         <h1>Muhammad Farhan Yousaf</h1>
         <h3>And I'm a <span class="multiple-text"> </span></h3>
+
+
+
+        
         <p>
           Passionate full-stack developer with expertise in both front-end and back-end development, skilled in crafting intuitive and responsive user interfaces using HTML, CSS, and JavaScript, while also proficient in Laravel for building robust and scalable back-end solutions. Committed to delivering seamless web experiences that drive user engagement and business success, with a strong focus on clean code and efficient functionality across the entire development stack.
         </p>
@@ -56,7 +60,7 @@
       </div>
       <div class="about-content">
         <h2 class="heading">About <span>Me</span></h2>
-        <h3>Frontend Developer!</h3>
+        <h3>Full-Stack Developer!</h3>
         <p>
           As a computer science graduate and full-stack developer with over 1 year of hands-on experience, I possess strong technical skills in HTML, CSS, JavaScript, and PHP, along with extensive experience in the Laravel framework for back-end development. I have a solid understanding of front-end technologies and am adept at creating responsive, user-centered web applications. A fast learner, strong communicator, and dedicated team player, I am committed to continuous learning and professional growth. I am eager to apply my expertise in both front-end and back-end development to build efficient and innovative solutions.
         </p>
@@ -198,8 +202,6 @@
         </form>
       </section>
       
-      
-      
 
     <!-- footer  -->
     <footer class="footer">
@@ -307,6 +309,8 @@
 
             
         </script>
+
+        
 
   </body>
 </html>
